@@ -8,6 +8,7 @@ The navbar is built using React, NextJS & TailwindCSS to provide a mobile-first 
 
 The entire project is open sourced under the MIT license. 
 
+> **Edit:** This submission got second place.
 
 # Installation
 a). Clone the repository via SSH
